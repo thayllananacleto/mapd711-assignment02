@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">ThayllanAnacleto_MAPD711_OnlinePizza</string>
+    <string name="app_name">OnlinePizza</string>
+    <string name="pizzaImg">pizzaImg</string>
+    <string name="tvText">Order your favorite pizza here!</string>
+    <string name="item1">Meat Supreme</string>
+    <string name="item2">Super Hawaiian</string>
+    <string name="item3">Veggie</string>
+    <string name="item4">Mediterranean</string>
+    <string name="item5">Cheddar Supreme</string>
 </resources>
