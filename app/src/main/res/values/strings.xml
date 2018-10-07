@@ -7,4 +7,11 @@
     <string name="item3">Veggie</string>
     <string name="item4">Mediterranean</string>
     <string name="item5">Cheddar Supreme</string>
+    <string name="tvSelectedType">Pizza Type</string>
+    <string name="rbSmall">Small</string>
+    <string name="rbMedium">Medium</string>
+    <string name="rbLarge">Large</string>
+    <string name="rbExtraLarge">Extra Large</string>
+    <string name="btnNext">Next</string>
+    <string name="btnCheckout">Checkout</string>
 </resources>

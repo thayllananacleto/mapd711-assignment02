@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".pizzaSizes" />
+        <activity android:name=".pizzaToppings" />
+        <activity android:name=".customerInfo" />
+        <activity android:name=".detailsPage"></activity>
     </application>
 
 </manifest>
