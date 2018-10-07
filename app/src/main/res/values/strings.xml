@@ -14,4 +14,11 @@
     <string name="rbExtraLarge">Extra Large</string>
     <string name="btnNext">Next</string>
     <string name="btnCheckout">Checkout</string>
+    <string name="tvFullName">Full Name:</string>
+    <string name="tvAddress">Address:</string>
+    <string name="tvPostalCode">Postal Code:</string>
+    <string name="tvTelephoneNumber">Telephone Number:</string>
+    <string name="tvCCNumber">Credit Card:</string>
+    <string name="tvCCExpiryDate">Expiry Date:</string>
+    <string name="btnOrder">Order Pizza</string>
 </resources>

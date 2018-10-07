@@ -1,5 +1,6 @@
 package com.example.thayllananacleto.thayllananacleto_mapd711_onlinepizza;
 
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
@@ -19,5 +20,11 @@ public class pizzaToppings extends AppCompatActivity {
     }
 
     public void checkout(View view) {
+
+        //Instantiate Intent Class
+        Intent intent = new Intent(pizzaToppings.this, customerInfo.class);
+
+        this.startActivity(intent);
+
     }
 }
